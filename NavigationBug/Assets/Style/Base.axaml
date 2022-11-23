@@ -1,0 +1,13 @@
+﻿<Styles xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <StyleInclude Source="avares://NavigationBug/Assets/Style/FocusAdornerStyles.axaml" />
+    <StyleInclude Source="avares://NavigationBug/Assets/Style/UserControlStyles.axaml" />
+    <StyleInclude Source="avares://NavigationBug/Assets/Style/ContentControlStyle.axaml" />
+    <StyleInclude Source="avares://NavigationBug/Assets/Style/EmbeddableControlRootStyles.axaml" />
+    <StyleInclude Source="avares://NavigationBug/Assets/Style/ScrollBarStyle.axaml" />
+    <StyleInclude Source="avares://NavigationBug/Assets/Style/ScrollViewerStyle.axaml" />
+    <StyleInclude Source="avares://NavigationBug/Assets/Style/ButtonStyle.axaml" />
+    <StyleInclude Source="avares://NavigationBug/Assets/Style/WindowStyle.axaml" />
+    <StyleInclude Source="avares://NavigationBug/Assets/Style/TransitioningContentControlStyle.axaml" />
+    
+</Styles>
